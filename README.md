@@ -36,10 +36,10 @@ This dataset includes simulated ad performance data across various marketing cam
 ## 🧮 Additional Metrics Calculated:
 | Metric | Description |
 |--------|-------------|
-| **CTR (%)** | `(Clicks / Impressions) * 100` |
+| **CTR** | `(Clicks / Impressions) * 100` |
 | **ROAS** | `(Revenue / Spend)` |
-| **CPM ($)** | `(Spend / Impressions) * 1000` |
-| **Cost per Conversion ($)** | `(Spend / Conversions)` |
+| **CPM** | `(Spend / Impressions) * 1000` |
+| **Cost per Conversion** | `(Spend / Conversions)` |
 
 These metrics are displayed using dynamic scorecards, time series charts, and breakdowns by campaign and channel.
 
