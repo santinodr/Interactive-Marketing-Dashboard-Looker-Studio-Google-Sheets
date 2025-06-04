@@ -25,11 +25,11 @@ This dataset includes simulated ad performance data across various marketing cam
 - Campaign  
 - Impressions  
 - Clicks  
-- CPC ($)  
-- Spend ($)  
+- CPC 
+- Spend
 - Conversions  
-- Conversion Rate (%)  
-- Revenue ($)
+- Conversion Rate
+- Revenue
 
 ---
 
