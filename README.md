@@ -54,7 +54,7 @@ These metrics are displayed using dynamic scorecards, time series charts, and br
 ---
 
 ## 📷 Preview:
-_You can add a screenshot or embed the dashboard if public._
+https://lookerstudio.google.com/reporting/ef0e842d-9357-4064-957b-85efb7450cb2
 
 ---
 
